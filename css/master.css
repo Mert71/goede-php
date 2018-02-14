@@ -1,0 +1,39 @@
+.morgen{
+background-image: url("../backgrounds/morning.png");
+}
+
+.middag {
+background-image: url("../backgrounds/afternoon.png");
+}
+
+.avond{
+background-image: url("../backgrounds/evening.png");
+}
+
+.nacht {
+background-image: url("../backgrounds/night.png");
+}
+
+@font-face {
+    font-family: 'FONTOGLOC'; /*a name to be used later*/
+    src: url('../fonts/ogloc.ttf'); /*URL to font*/
+}
+
+.hetIs {
+  font-family: 'FONTOGLOC';
+  color: rgba(255,255,255,1);
+  font-size: 84px;
+  margin-top: 113px;
+  margin-left: 711px;
+  text-shadow: 2px 2px black;
+
+}
+
+.goedenxxx {
+  font-family: 'FONTOGLOC';
+  color: rgba(255,255,255,1);
+  margin-left: 660px;
+  margin-top: 354px;
+  font-size: 94px;
+  text-shadow: 2px 2px black;
+}
